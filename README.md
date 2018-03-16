@@ -1,2 +1,2 @@
-# simple-api
+# api
 simple php api
